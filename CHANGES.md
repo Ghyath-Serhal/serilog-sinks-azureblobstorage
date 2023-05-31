@@ -1,8 +1,11 @@
 # Changes
 
+### 3.2.0 5/30/2023
+- Adopted PR #101 from @Ghyath-Serhal that added support for multi-tenancy, or using separate log files per tenant.
+
 ### 3.1.3 8/2/2022
 - No code changes, changed Azure.Storage.Blobs to version 12.13.0 to address security vulnerability.
-- 
+
 ### 3.1.2 4/8/2022
 - No code changes, just adopted the standard logo for Serilog Sink nuget packages.
 
